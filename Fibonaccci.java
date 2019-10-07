@@ -50,4 +50,3 @@ public class HelloAndroid {
 
     /* * Fibonacci series in Java of a given number Recursion. */ public static int getFibonacci(int n) { if (n == 1) { return 1; } if (n == 2) { return 1; } return getFibonacci(n - 1) + getFibonacci(n - 2); } } Output Fibonacci series of 8 numbers are : 1 1 2 3 5 8 13 21 Fibonacci series of 9 numbers are : 1 1 2 3 5 8 13 21 34 Fibonacci series of 10 numbers are : 1 1 2 3 5 8 13 21 34 55 Fibonacci series in Java of number 11 using recursion 1 1 2 3 5 8 13 21 34 55 89 Fibonacci series in Java of number 12 using recursion 1 1 2 3 5 8 13 21 34 55 89 144
 
-Read more: https://javarevisited.blogspot.com/2015/01/print-fibonacci-series-in-java-using.html#ixzz61e7koIy2
