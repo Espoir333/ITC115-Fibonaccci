@@ -12,7 +12,7 @@ public static void fibonacci(int number) {
             fibo2 = fibo1;
             fibo1 = fibonacci; } }
 
-Read more: https://javarevisited.blogspot.com/2015/01/print-fibonacci-series-in-java-using.html#ixzz61iI0wnsY
+Read more: https://github.com/Espoir333/ITC115-Fibonaccci
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -21,10 +21,10 @@ import java.util.Scanner;
  * console. For example, if input is 9 then your program should print 1 1 2 3 5
  * 8 13 21 34 55 89
  *
- * @author WINDOWS 8
+ * @author Espoir333
  *
  */
-public class HelloAndroid {
+public class HelloFibonacci {
 
     public static void main(String args[]) {
         fibonacci(8);
